@@ -1,0 +1,4 @@
+
+primera linea en mi archivo txt
+segunda linea en mi archivo txt
+tercera linea en mi archivo txt
